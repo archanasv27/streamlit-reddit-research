@@ -53,3 +53,4 @@ urllib3
 websocket-client
 yarl
 PyYAML
+openai
